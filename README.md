@@ -1,9 +1,9 @@
 # George Hare's Projects
-## Formula SAE HV Battery (System Lead) :
+## [Formula SAE HV Battery (System Lead) ](/FSAE.html):
 
 ![](fullacu.png) 
 
-## Ultra Lowcost Robotic Joint (Solo Project) :
+## [Ultra Lowcost Robotic Joint (Solo Project)](/Soloprojects.html) :
 
 ![](Arm.png) 
 
