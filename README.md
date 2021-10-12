@@ -9,5 +9,6 @@
 
 ## FIRST Robotics Robot (Team Lead) :
 
-![](large.JPG) ![](Robot Spining.gif) 
+![](large.JPG)
+![](Robot Spining.gif) 
 
