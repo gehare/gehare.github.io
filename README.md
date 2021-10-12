@@ -9,4 +9,4 @@
 
 ## FIRST Robotics Robot (Team Lead) :
 
-![](fullacu.png) 
+![](larg.JPG) 
