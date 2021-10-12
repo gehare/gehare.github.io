@@ -5,7 +5,7 @@
 
 ## Ultra Lowcost Robotic Joint (Solo Project) :
 
-![](fullacu.png) 
+![](Arm.png) 
 
 ## FIRST Robotics Robot (Team Lead) :
 
