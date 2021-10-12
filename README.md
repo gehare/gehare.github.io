@@ -7,7 +7,7 @@
 
 ![](Arm.png) 
 
-## FIRST Robotics Robot (Team Lead) :
+## [FIRST Robotics Robot (Team Lead)](/robotics.html) :
 
 ![](large.JPG) ![](Robot Spining.gif) 
 
