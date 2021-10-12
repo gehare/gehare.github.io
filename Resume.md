@@ -1,4 +1,4 @@
-#Resume
+# Resume
 # **George Hare**
 
 +1 651-354-0778 | george.f.hare@gmail.com
