@@ -1,4 +1,12 @@
 # George Hare's Projects
-This is a test:
+## Formula SAE HV Battery (System Lead) :
 
-![](frame.png) ![](RackMultipart20211012-4-mnzku_html_8dd987b6584a1db8.png)
+![](AC 2019 (Almost Complete).png) 
+
+## Ultra Lowcost Robotic Joint (Solo Project) :
+
+![](AC 2019 (Almost Complete).png) 
+
+## FIRST Robotics Robot (Team Lead) :
+
+![](AC 2019 (Almost Complete).png) 
