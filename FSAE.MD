@@ -11,3 +11,5 @@ For our 2019 accumulator I led the development of the Frame (ESCF) and what we c
 
 ![](frame.png)
 
+![](19_AC_ESCF_V0.png)
+
