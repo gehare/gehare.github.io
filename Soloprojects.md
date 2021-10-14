@@ -11,4 +11,4 @@ This past winter I attempted to make a high torque simple robotic join that coul
 
 ![](Reducer.png)
 ![](assemarm.jpg)
-![](parts2.jpg)
+![](parts2.JPG)
