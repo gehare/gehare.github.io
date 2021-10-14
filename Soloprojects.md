@@ -1,12 +1,14 @@
-# 2019 FSAE Accumulator
+# Personal Projects
 ## What I did
-For our 2019 accumulator I led the development of the Frame (ESCF) and what we call the aux tray that housed all of the segment-to-segment bussing, BMS and safety systems
+This past winter I attempted to make a high torque simple robotic join that could be made with injection molded plastic and use cheap mechanical encoders. My goal was a join capable of 100lb-ft torque, positioned to within 1deg and a BOM cost of less than $20 when mass manufactured.  I achieved the torque and theoretical cost by using a back-to-back eccentric gear set powered by a 775 style drill motor. However, the positioning proved too difficult to achieve with the $0.82 cent encoders ordered directly from Alibaba. 
 ## What I learned
-1. Think through tolerance and what they will mean in the real world especially when dealing with over 300v.
-2. When welding pieces together (especially aluminum) think through how the part will warp and plan for fixturing to account for it.
-3. Carefully planning manufacturing techniques is important to do at an early stage while planning packaging.
-4. This was the first time I worked with weldments in FEA, carefully modeling bond area and stiffness was a key to proving crash loads on the frame
+1. Even in a mechanical project thinking through control systems is important
+2. FDM printing is not magic, and any parts made with it should be designed with it in mind from the beginning.
+3. Plastic on plastic sliding is a bad idea if speeds get even moderately fast.
+ 
 
-![](fullacu.png)
+![](Arm.png)
 
-![](frame.png)
+![](Reducer.png)
+![](assemarm.jpg)
+![](parts2.jpg)
